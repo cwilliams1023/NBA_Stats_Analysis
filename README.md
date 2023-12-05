@@ -7,15 +7,15 @@ The project involves a comprehensive analysis of NBA player and team performance
 Data Collection  
 Data Cleaning and Preprocessing  
 Player Performance Analysis  
-Team Performance Analysis
-Positional Performance Analysis
-MVP Prediction Model
-Visualization
+Team Performance Analysis  
+Positional Performance Analysis  
+MVP Prediction Model  
+Visualization  
 
 ## Findings and Insights
-Player Performance Trends
-Team Performance Trends
-Positional Performance Trends
+Player Performance Trends  
+Team Performance Trends  
+Positional Performance Trends  
 
 
 ## Conclusion
